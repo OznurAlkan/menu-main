@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ie.com.chat.bot.ChatBotApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.018 s <<< FAILURE! - in ie.com.chat.bot.ChatBotApplicationTests
+initializationError(ie.com.chat.bot.ChatBotApplicationTests)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.TypeNotPresentException: Type org.springframework.test.context.junit4.SpringRunner not present
+Caused by: java.lang.ClassNotFoundException: org.springframework.test.context.junit4.SpringRunner
+
